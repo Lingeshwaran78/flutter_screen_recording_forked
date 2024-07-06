@@ -81,10 +81,11 @@ packages:
   flutter_screen_recording_platform_interface:
     dependency: "direct main"
     description:
-      name: flutter_screen_recording_platform_interface
-      sha256: e177557cbca61d8cf0f6ecc3f65ab5638dfa912f00ac8c31ac7f0f40c241ec81
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "65105187adac362cee22ba9e4f3bfe64c63fdd31"
+      url: "https://github.com/Lingeshwaran78/flutter_screen_recording_platform_interface_forked.git"
+    source: git
     version: "1.0.2"
   flutter_test:
     dependency: "direct dev"
